@@ -1,22 +1,30 @@
 {
   "name": "covid19australia-api",
   "version": "1.0.0",
-  "description": "API for COVID-19 Australia Stats",
+  "description": "API for COVID-19 Australian Data",
   "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsangram/covid19Australia-api.git"
   },
   "keywords": [
-    "COVID-19",
-    "Corona",
-    "virus",
-    "COVID",
+    "COVID-19 API",
+    "Corona Virus data API",
+    "COVID data Australia",
     "Australia"
   ],
   "author": "Sangram Nandkhile",
   "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/imsangram/covid19Australia-api/issues"
+  },
+  "homepage": "https://github.com/imsangram/covid19Australia-api#readme"
 }
