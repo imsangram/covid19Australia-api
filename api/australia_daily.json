@@ -194,7 +194,7 @@
 		"confirmed": 1354,
 		"newCases": 283,
 		"deaths": 7,
-		"reportDate": "22 March[d]"
+		"reportDate": "22-03-2020"
 	},
 	{
 		"confirmed": 1718,
@@ -405,5 +405,24 @@
 		"newCases": 16,
 		"deaths": 83,
 		"reportDate": "26-04-2020"
+	},
+	{
+		"confirmed": 6720,
+		"newCases": 9,
+		"deaths": 83,
+		"reportDate": "27-04-2020"
+	},
+	{
+		"confirmed": 6731,
+		"newCases": 11,
+		"deaths": 84,
+		"reportDate": "28-04-2020"
+	},
+	{
+		"confirmed": 6743,
+		"newCases": 12,
+		"deaths": 89,
+		"reportDate": "29-04-2020"
 	}
+
 ]
