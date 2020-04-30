@@ -1,14 +1,14 @@
 {
 	"id": "AUS",
 	"name": "Australia",
-	"confirmed": 6745,
+	"confirmed": 6746,
 	"recovered": 5670,
-	"deaths": 89,
-	"tests": 542780,
-	"newConfirmed": 26,
+	"deaths": 91,
+	"tests": 552370,
+	"newConfirmed": 15,
 	"newRecovered": 101,
-	"newDeaths": 6,
-	"lastUpdated":"2020-04-29T08:32:15.501Z",
+	"newDeaths": 2,
+	"lastUpdated":"2020-04-30T00:52:44.607Z",
 	"states": [{
 		"id": "ACT",
 		"name": "Australian Capital Territory",
@@ -20,16 +20,16 @@
 		"id": "NSW",
 		"name": "New South Wales",
 		"confirmed": 3016,
-		"recovered": 2266,
-		"deaths": 39,
-		"tests": 212659
+		"recovered": 2284,
+		"deaths": 40,
+		"tests": 220046
 	}, {
 		"id": "NT",
 		"name": "Northern Territory",
 		"confirmed": 28,
 		"recovered": 25,
 		"deaths": 0,
-		"tests": 4338
+		"tests": 4421
 	}, {
 		"id": "QLD",
 		"name": "Queensland",
@@ -47,9 +47,9 @@
 	}, {
 		"id": "TAS",
 		"name": "Tasmania",
-		"confirmed": 218,
+		"confirmed": 220,
 		"recovered": 137,
-		"deaths": 11,
+		"deaths": 12,
 		"tests": 10686
 	}, {
 		"id": "VIC",

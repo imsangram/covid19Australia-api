@@ -86,7 +86,7 @@
 		"confirmed": 52,
 		"newCases": 11,
 		"deaths": 2,
-		"reportDate": "4 March[c]"
+		"reportDate": "04-03-2020"
 	},
 	{
 		"confirmed": 60,
@@ -419,9 +419,9 @@
 		"reportDate": "28-04-2020"
 	},
 	{
-		"confirmed": 6743,
-		"newCases": 12,
-		"deaths": 89,
+		"confirmed": 6746,
+		"newCases": 15,
+		"deaths": 91,
 		"reportDate": "29-04-2020"
 	}
 
