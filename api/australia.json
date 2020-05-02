@@ -1,69 +1,70 @@
 {
-	"id": "AUS",
-	"name": "Australia",
-	"confirmed": 6746,
-	"recovered": 5670,
-	"deaths": 91,
-	"tests": 552370,
-	"newConfirmed": 15,
-	"newRecovered": 101,
-	"newDeaths": 2,
-	"lastUpdated":"2020-04-30T00:52:44.607Z",
-	"states": [{
-		"id": "ACT",
-		"name": "Australian Capital Territory",
-		"confirmed": 106,
-		"recovered": 101,
-		"deaths": 3,
-		"tests": 8442
-	}, {
-		"id": "NSW",
-		"name": "New South Wales",
-		"confirmed": 3016,
-		"recovered": 2284,
-		"deaths": 40,
-		"tests": 220046
-	}, {
-		"id": "NT",
-		"name": "Northern Territory",
-		"confirmed": 28,
-		"recovered": 25,
-		"deaths": 0,
-		"tests": 4421
-	}, {
-		"id": "QLD",
-		"name": "Queensland",
-		"confirmed": 1034,
-		"recovered": 934,
-		"deaths": 6,
-		"tests": 104950
-	}, {
-		"id": "SA",
-		"name": "South Australia",
-		"confirmed": 438,
-		"recovered": 420,
-		"deaths": 4,
-		"tests": 54082
-	}, {
-		"id": "TAS",
-		"name": "Tasmania",
-		"confirmed": 220,
-		"recovered": 137,
-		"deaths": 12,
-		"tests": 10686
-	}, {
-		"id": "VIC",
-		"name": "Victoria",
-		"confirmed": 1354,
-		"recovered": 1287,
-		"deaths": 18,
-		"tests": 111092
-	}, {
-		"id": "WA",
-		"name": "Western Australia",
-		"confirmed": 551,
-		"recovered": 500,
-		"deaths": 8,
-		"tests": 36531
-	}]
-}
+      "id": "AUS",
+      "name": "Australia",
+      "confirmed": 6784,
+      "recovered": 5797,
+      "deaths": 93,
+      "tests": 611583,
+      "newConfirmed": 16,
+      "newRecovered": 100,
+      "newDeaths": 0,
+      "lastUpdated":"2020-05-02T15:29:01.932Z",
+      "states": [
+      {
+        "id": "ACT",
+        "name": "Australian Capital Territory",
+        "confirmed": 106,
+        "recovered": 103,
+        "deaths": 3,
+        "tests": 9243
+      },{
+        "id": "NSW",
+        "name": "New South Wales",
+        "confirmed": 3031,
+        "recovered": 2300,
+        "deaths": 41,
+        "tests": 235894
+      },{
+        "id": "NT",
+        "name": "Northern Territory",
+        "confirmed": 30,
+        "recovered": 25,
+        "deaths": 0,
+        "tests": 4721
+      },{
+        "id": "QLD",
+        "name": "Queensland",
+        "confirmed": 1034,
+        "recovered": 965,
+        "deaths": 6,
+        "tests": 113601
+      },{
+        "id": "SA",
+        "name": "South Australia",
+        "confirmed": 438,
+        "recovered": 427,
+        "deaths": 4,
+        "tests": 59835
+      },{
+        "id": "TAS",
+        "name": "Tasmania",
+        "confirmed": 223,
+        "recovered": 157,
+        "deaths": 13,
+        "tests": 13829
+      },{
+        "id": "VIC",
+        "name": "Victoria",
+        "confirmed": 1371,
+        "recovered": 1300,
+        "deaths": 18,
+        "tests": 129228
+      },{
+        "id": "WA",
+        "name": "Western Australia",
+        "confirmed": 551,
+        "recovered": 520,
+        "deaths": 8,
+        "tests": 45232
+      }]
+  }

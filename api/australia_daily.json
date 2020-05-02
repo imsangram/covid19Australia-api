@@ -1,428 +1,445 @@
 [{
-		"confirmed": 4,
-		"newCases": 4,
-		"deaths": 0,
-		"reportDate": "25-01-2020"
-	},
-	{
-		"confirmed": 6,
-		"newCases": 2,
-		"deaths": 0,
-		"reportDate": "27-01-2020"
-	},
-	{
-		"confirmed": 7,
-		"newCases": 1,
-		"deaths": 0,
-		"reportDate": "29-01-2020"
-	},
-	{
-		"confirmed": 9,
-		"newCases": 2,
-		"deaths": 0,
-		"reportDate": "30-01-2020"
-	},
-	{
-		"confirmed": 10,
-		"newCases": 1,
-		"deaths": 0,
-		"reportDate": "01-02-2020"
-	},
-	{
-		"confirmed": 11,
-		"newCases": 1,
-		"deaths": 0,
-		"reportDate": "04-02-2020"
-	},
-	{
-		"confirmed": 12,
-		"newCases": 1,
-		"deaths": 0,
-		"reportDate": "05-02-2020"
-	},
-	{
-		"confirmed": 13,
-		"newCases": 1,
-		"deaths": 0,
-		"reportDate": "06-02-2020"
-	},
-	{
-		"confirmed": 16,
-		"newCases": 3,
-		"deaths": 0,
-		"reportDate": "22-02-2020"
-	},
-	{
-		"confirmed": 17,
-		"newCases": 1,
-		"deaths": 0,
-		"reportDate": "25-02-2020"
-	},
-	{
-		"confirmed": 23,
-		"newCases": 6,
-		"deaths": 0,
-		"reportDate": "29-02-2020"
-	},
-	{
-		"confirmed": 29,
-		"newCases": 6,
-		"deaths": 1,
-		"reportDate": "01-03-2020"
-	},
-	{
-		"confirmed": 33,
-		"newCases": 4,
-		"deaths": 1,
-		"reportDate": "02-03-2020"
-	},
-	{
-		"confirmed": 41,
-		"newCases": 8,
-		"deaths": 1,
-		"reportDate": "03-03-2020"
-	},
-	{
-		"confirmed": 52,
-		"newCases": 11,
-		"deaths": 2,
-		"reportDate": "04-03-2020"
-	},
-	{
-		"confirmed": 60,
-		"newCases": 8,
-		"deaths": 2,
-		"reportDate": "05-03-2020"
-	},
-	{
-		"confirmed": 63,
-		"newCases": 3,
-		"deaths": 2,
-		"reportDate": "06-03-2020"
-	},
-	{
-		"confirmed": 73,
-		"newCases": 10,
-		"deaths": 2,
-		"reportDate": "07-03-2020"
-	},
-	{
-		"confirmed": 80,
-		"newCases": 7,
-		"deaths": 3,
-		"reportDate": "08-03-2020"
-	},
-	{
-		"confirmed": 92,
-		"newCases": 12,
-		"deaths": 3,
-		"reportDate": "09-03-2020"
-	},
-	{
-		"confirmed": 112,
-		"newCases": 20,
-		"deaths": 3,
-		"reportDate": "10-03-2020"
-	},
-	{
-		"confirmed": 127,
-		"newCases": 15,
-		"deaths": 3,
-		"reportDate": "11-03-2020"
-	},
-	{
-		"confirmed": 156,
-		"newCases": 29,
-		"deaths": 3,
-		"reportDate": "12-03-2020"
-	},
-	{
-		"confirmed": 198,
-		"newCases": 42,
-		"deaths": 3,
-		"reportDate": "13-03-2020"
-	},
-	{
-		"confirmed": 248,
-		"newCases": 50,
-		"deaths": 3,
-		"reportDate": "14-03-2020"
-	},
-	{
-		"confirmed": 298,
-		"newCases": 50,
-		"deaths": 5,
-		"reportDate": "15-03-2020"
-	},
-	{
-		"confirmed": 376,
-		"newCases": 78,
-		"deaths": 5,
-		"reportDate": "16-03-2020"
-	},
-	{
-		"confirmed": 453,
-		"newCases": 77,
-		"deaths": 5,
-		"reportDate": "17-03-2020"
-	},
-	{
-		"confirmed": 566,
-		"newCases": 113,
-		"deaths": 6,
-		"reportDate": "18-03-2020"
-	},
-	{
-		"confirmed": 708,
-		"newCases": 142,
-		"deaths": 6,
-		"reportDate": "19-03-2020"
-	},
-	{
-		"confirmed": 875,
-		"newCases": 167,
-		"deaths": 7,
-		"reportDate": "20-03-2020"
-	},
-	{
-		"confirmed": 1071,
-		"newCases": 196,
-		"deaths": 7,
-		"reportDate": "21-03-2020"
-	},
-	{
-		"confirmed": 1354,
-		"newCases": 283,
-		"deaths": 7,
-		"reportDate": "22-03-2020"
-	},
-	{
-		"confirmed": 1718,
-		"newCases": 364,
-		"deaths": 7,
-		"reportDate": "23-03-2020"
-	},
-	{
-		"confirmed": 2147,
-		"newCases": 429,
-		"deaths": 8,
-		"reportDate": "24-03-2020"
-	},
-	{
-		"confirmed": 2432,
-		"newCases": 285,
-		"deaths": 9,
-		"reportDate": "25-03-2020"
-	},
-	{
-		"confirmed": 2810,
-		"newCases": 378,
-		"deaths": 13,
-		"reportDate": "26-03-2020"
-	},
-	{
-		"confirmed": 3180,
-		"newCases": 370,
-		"deaths": 13,
-		"reportDate": "27-03-2020"
-	},
-	{
-		"confirmed": 3640,
-		"newCases": 460,
-		"deaths": 14,
-		"reportDate": "28-03-2020"
-	},
-	{
-		"confirmed": 3985,
-		"newCases": 345,
-		"deaths": 16,
-		"reportDate": "29-03-2020"
-	},
-	{
-		"confirmed": 4250,
-		"newCases": 265,
-		"deaths": 18,
-		"reportDate": "30-03-2020"
-	},
-	{
-		"confirmed": 4561,
-		"newCases": 311,
-		"deaths": 19,
-		"reportDate": "31-03-2020"
-	},
-	{
-		"confirmed": 4864,
-		"newCases": 303,
-		"deaths": 21,
-		"reportDate": "01-04-2020"
-	},
-	{
-		"confirmed": 5137,
-		"newCases": 273,
-		"deaths": 24,
-		"reportDate": "02-04-2020"
-	},
-	{
-		"confirmed": 5362,
-		"newCases": 225,
-		"deaths": 28,
-		"reportDate": "03-04-2020"
-	},
-	{
-		"confirmed": 5552,
-		"newCases": 190,
-		"deaths": 30,
-		"reportDate": "04-04-2020"
-	},
-	{
-		"confirmed": 5687,
-		"newCases": 135,
-		"deaths": 34,
-		"reportDate": "05-04-2020"
-	},
-	{
-		"confirmed": 5795,
-		"newCases": 108,
-		"deaths": 39,
-		"reportDate": "06-04-2020"
-	},
-	{
-		"confirmed": 5908,
-		"newCases": 113,
-		"deaths": 45,
-		"reportDate": "07-04-2020"
-	},
-	{
-		"confirmed": 6013,
-		"newCases": 105,
-		"deaths": 50,
-		"reportDate": "08-04-2020"
-	},
-	{
-		"confirmed": 6103,
-		"newCases": 90,
-		"deaths": 51,
-		"reportDate": "09-04-2020"
-	},
-	{
-		"confirmed": 6203,
-		"newCases": 100,
-		"deaths": 53,
-		"reportDate": "10-04-2020"
-	},
-	{
-		"confirmed": 6292,
-		"newCases": 89,
-		"deaths": 56,
-		"reportDate": "11-04-2020"
-	},
-	{
-		"confirmed": 6313,
-		"newCases": 21,
-		"deaths": 59,
-		"reportDate": "12-04-2020"
-	},
-	{
-		"confirmed": 6359,
-		"newCases": 46,
-		"deaths": 61,
-		"reportDate": "13-04-2020"
-	},
-	{
-		"confirmed": 6400,
-		"newCases": 41,
-		"deaths": 61,
-		"reportDate": "14-04-2020"
-	},
-	{
-		"confirmed": 6447,
-		"newCases": 47,
-		"deaths": 63,
-		"reportDate": "15-04-2020"
-	},
-	{
-		"confirmed": 6468,
-		"newCases": 21,
-		"deaths": 63,
-		"reportDate": "16-04-2020"
-	},
-	{
-		"confirmed": 6523,
-		"newCases": 55,
-		"deaths": 65,
-		"reportDate": "17-04-2020"
-	},
-	{
-		"confirmed": 6565,
-		"newCases": 42,
-		"deaths": 68,
-		"reportDate": "18-04-2020"
-	},
-	{
-		"confirmed": 6606,
-		"newCases": 41,
-		"deaths": 70,
-		"reportDate": "19-04-2020"
-	},
-	{
-		"confirmed": 6619,
-		"newCases": 13,
-		"deaths": 71,
-		"reportDate": "20-04-2020"
-	},
-	{
-		"confirmed": 6645,
-		"newCases": 26,
-		"deaths": 71,
-		"reportDate": "21-04-2020"
-	},
-	{
-		"confirmed": 6649,
-		"newCases": 4,
-		"deaths": 74,
-		"reportDate": "22-04-2020"
-	},
-	{
-		"confirmed": 6661,
-		"newCases": 12,
-		"deaths": 75,
-		"reportDate": "23-04-2020"
-	},
-	{
-		"confirmed": 6675,
-		"newCases": 14,
-		"deaths": 78,
-		"reportDate": "24-04-2020"
-	},
-	{
-		"confirmed": 6695,
-		"newCases": 20,
-		"deaths": 80,
-		"reportDate": "25-04-2020"
-	},
-	{
-		"confirmed": 6711,
-		"newCases": 16,
-		"deaths": 83,
-		"reportDate": "26-04-2020"
-	},
-	{
-		"confirmed": 6720,
-		"newCases": 9,
-		"deaths": 83,
-		"reportDate": "27-04-2020"
-	},
-	{
-		"confirmed": 6731,
-		"newCases": 11,
-		"deaths": 84,
-		"reportDate": "28-04-2020"
-	},
-	{
-		"confirmed": 6746,
-		"newCases": 15,
-		"deaths": 91,
-		"reportDate": "29-04-2020"
-	}
-
-]
+	"reportDate": "25/1/2020",
+	"confirmed": 4,
+	"newCases": 4,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "27/1/2020",
+	"confirmed": 6,
+	"newCases": 2,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "29/1/2020",
+	"confirmed": 7,
+	"newCases": 1,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "30/1/2020",
+	"confirmed": 9,
+	"newCases": 2,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "01/2/2020",
+	"confirmed": 10,
+	"newCases": 1,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "04/2/2020",
+	"confirmed": 11,
+	"newCases": 1,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "05/2/2020",
+	"confirmed": 12,
+	"newCases": 1,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "06/2/2020",
+	"confirmed": 13,
+	"newCases": 1,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "22/2/2020",
+	"confirmed": 16,
+	"newCases": 3,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "25/2/2020",
+	"confirmed": 17,
+	"newCases": 1,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "29/2/2020",
+	"confirmed": 23,
+	"newCases": 6,
+	"deaths": 0,
+	"newDeaths": 0
+}, {
+	"reportDate": "01/3/2020",
+	"confirmed": 29,
+	"newCases": 6,
+	"deaths": 1,
+	"newDeaths": 1
+}, {
+	"reportDate": "02/3/2020",
+	"confirmed": 33,
+	"newCases": 4,
+	"deaths": 1,
+	"newDeaths": 0
+}, {
+	"reportDate": "03/3/2020",
+	"confirmed": 41,
+	"newCases": 8,
+	"deaths": 1,
+	"newDeaths": 0
+}, {
+	"reportDate": "04/3/2020",
+	"confirmed": 52,
+	"newCases": 11,
+	"deaths": 2,
+	"newDeaths": 1
+}, {
+	"reportDate": "05/3/2020",
+	"confirmed": 60,
+	"newCases": 8,
+	"deaths": 2,
+	"newDeaths": 0
+}, {
+	"reportDate": "06/3/2020",
+	"confirmed": 63,
+	"newCases": 3,
+	"deaths": 2,
+	"newDeaths": 0
+}, {
+	"reportDate": "07/3/2020",
+	"confirmed": 73,
+	"newCases": 10,
+	"deaths": 2,
+	"newDeaths": 0
+}, {
+	"reportDate": "08/3/2020",
+	"confirmed": 80,
+	"newCases": 7,
+	"deaths": 3,
+	"newDeaths": 1
+}, {
+	"reportDate": "09/3/2020",
+	"confirmed": 92,
+	"newCases": 12,
+	"deaths": 3,
+	"newDeaths": 0
+}, {
+	"reportDate": "10/3/2020",
+	"confirmed": 112,
+	"newCases": 20,
+	"deaths": 3,
+	"newDeaths": 0
+}, {
+	"reportDate": "11/3/2020",
+	"confirmed": 127,
+	"newCases": 15,
+	"deaths": 3,
+	"newDeaths": 0
+}, {
+	"reportDate": "12/3/2020",
+	"confirmed": 156,
+	"newCases": 29,
+	"deaths": 3,
+	"newDeaths": 0
+}, {
+	"reportDate": "13/3/2020",
+	"confirmed": 198,
+	"newCases": 42,
+	"deaths": 4,
+	"newDeaths": 1
+}, {
+	"reportDate": "14/3/2020",
+	"confirmed": 248,
+	"newCases": 50,
+	"deaths": 4,
+	"newDeaths": 0
+}, {
+	"reportDate": "15/3/2020",
+	"confirmed": 298,
+	"newCases": 50,
+	"deaths": 5,
+	"newDeaths": 1
+}, {
+	"reportDate": "16/3/2020",
+	"confirmed": 376,
+	"newCases": 78,
+	"deaths": 5,
+	"newDeaths": 0
+}, {
+	"reportDate": "17/3/2020",
+	"confirmed": 453,
+	"newCases": 77,
+	"deaths": 5,
+	"newDeaths": 0
+}, {
+	"reportDate": "18/3/2020",
+	"confirmed": 566,
+	"newCases": 113,
+	"deaths": 6,
+	"newDeaths": 1
+}, {
+	"reportDate": "19/3/2020",
+	"confirmed": 708,
+	"newCases": 142,
+	"deaths": 6,
+	"newDeaths": 0
+}, {
+	"reportDate": "20/3/2020",
+	"confirmed": 875,
+	"newCases": 167,
+	"deaths": 7,
+	"newDeaths": 1
+}, {
+	"reportDate": "21/3/2020",
+	"confirmed": 1071,
+	"newCases": 196,
+	"deaths": 7,
+	"newDeaths": 0
+}, {
+	"reportDate": "22/3/2020",
+	"confirmed": 1354,
+	"newCases": 283,
+	"deaths": 7,
+	"newDeaths": 0
+}, {
+	"reportDate": "23/3/2020",
+	"confirmed": 1718,
+	"newCases": 364,
+	"deaths": 7,
+	"newDeaths": 0
+}, {
+	"reportDate": "24/3/2020",
+	"confirmed": 2147,
+	"newCases": 429,
+	"deaths": 8,
+	"newDeaths": 1
+}, {
+	"reportDate": "25/3/2020",
+	"confirmed": 2432,
+	"newCases": 285,
+	"deaths": 9,
+	"newDeaths": 1
+}, {
+	"reportDate": "26/3/2020",
+	"confirmed": 2810,
+	"newCases": 378,
+	"deaths": 13,
+	"newDeaths": 4
+}, {
+	"reportDate": "27/3/2020",
+	"confirmed": 3180,
+	"newCases": 370,
+	"deaths": 13,
+	"newDeaths": 0
+}, {
+	"reportDate": "28/3/2020",
+	"confirmed": 3640,
+	"newCases": 460,
+	"deaths": 14,
+	"newDeaths": 1
+}, {
+	"reportDate": "29/3/2020",
+	"confirmed": 3985,
+	"newCases": 345,
+	"deaths": 16,
+	"newDeaths": 2
+}, {
+	"reportDate": "30/3/2020",
+	"confirmed": 4250,
+	"newCases": 265,
+	"deaths": 18,
+	"newDeaths": 2
+}, {
+	"reportDate": "31/3/2020",
+	"confirmed": 4561,
+	"newCases": 311,
+	"deaths": 19,
+	"newDeaths": 1
+}, {
+	"reportDate": "01/4/2020",
+	"confirmed": 4864,
+	"newCases": 303,
+	"deaths": 21,
+	"newDeaths": 2
+}, {
+	"reportDate": "02/4/2020",
+	"confirmed": 5137,
+	"newCases": 273,
+	"deaths": 24,
+	"newDeaths": 2
+}, {
+	"reportDate": "03/4/2020",
+	"confirmed": 5362,
+	"newCases": 225,
+	"deaths": 28,
+	"newDeaths": 4
+}, {
+	"reportDate": "04/4/2020",
+	"confirmed": 5552,
+	"newCases": 190,
+	"deaths": 30,
+	"newDeaths": 2
+}, {
+	"reportDate": "05/4/2020",
+	"confirmed": 5687,
+	"newCases": 135,
+	"deaths": 37,
+	"newDeaths": 7
+}, {
+	"reportDate": "06/4/2020",
+	"confirmed": 5795,
+	"newCases": 108,
+	"deaths": 41,
+	"newDeaths": 4
+}, {
+	"reportDate": "07/4/2020",
+	"confirmed": 5908,
+	"newCases": 113,
+	"deaths": 48,
+	"newDeaths": 7
+}, {
+	"reportDate": "08/4/2020",
+	"confirmed": 6013,
+	"newCases": 105,
+	"deaths": 50,
+	"newDeaths": 2
+}, {
+	"reportDate": "09/4/2020",
+	"confirmed": 6103,
+	"newCases": 90,
+	"deaths": 51,
+	"newDeaths": 1
+}, {
+	"reportDate": "10/4/2020",
+	"confirmed": 6203,
+	"newCases": 100,
+	"deaths": 54,
+	"newDeaths": 3
+}, {
+	"reportDate": "11/4/2020",
+	"confirmed": 6292,
+	"newCases": 89,
+	"deaths": 56,
+	"newDeaths": 2
+}, {
+	"reportDate": "12/4/2020",
+	"confirmed": 6313,
+	"newCases": 21,
+	"deaths": 59,
+	"newDeaths": 3
+}, {
+	"reportDate": "13/4/2020",
+	"confirmed": 6359,
+	"newCases": 46,
+	"deaths": 61,
+	"newDeaths": 2
+}, {
+	"reportDate": "14/4/2020",
+	"confirmed": 6400,
+	"newCases": 41,
+	"deaths": 62,
+	"newDeaths": 1
+}, {
+	"reportDate": "15/4/2020",
+	"confirmed": 6447,
+	"newCases": 47,
+	"deaths": 63,
+	"newDeaths": 1
+}, {
+	"reportDate": "16/4/2020",
+	"confirmed": 6468,
+	"newCases": 21,
+	"deaths": 63,
+	"newDeaths": 0
+}, {
+	"reportDate": "17/4/2020",
+	"confirmed": 6523,
+	"newCases": 55,
+	"deaths": 65,
+	"newDeaths": 2
+}, {
+	"reportDate": "18/4/2020",
+	"confirmed": 6565,
+	"newCases": 42,
+	"deaths": 69,
+	"newDeaths": 4
+}, {
+	"reportDate": "19/4/2020",
+	"confirmed": 6606,
+	"newCases": 41,
+	"deaths": 71,
+	"newDeaths": 2
+}, {
+	"reportDate": "20/4/2020",
+	"confirmed": 6619,
+	"newCases": 13,
+	"deaths": 71,
+	"newDeaths": 0
+}, {
+	"reportDate": "21/4/2020",
+	"confirmed": 6645,
+	"newCases": 26,
+	"deaths": 71,
+	"newDeaths": 0
+}, {
+	"reportDate": "22/4/2020",
+	"confirmed": 6649,
+	"newCases": 4,
+	"deaths": 74,
+	"newDeaths": 3
+}, {
+	"reportDate": "23/4/2020",
+	"confirmed": 6661,
+	"newCases": 12,
+	"deaths": 76,
+	"newDeaths": 2
+}, {
+	"reportDate": "24/4/2020",
+	"confirmed": 6675,
+	"newCases": 14,
+	"deaths": 79,
+	"newDeaths": 3
+}, {
+	"reportDate": "25/4/2020",
+	"confirmed": 6695,
+	"newCases": 20,
+	"deaths": 81,
+	"newDeaths": 2
+}, {
+	"reportDate": "26/4/2020",
+	"confirmed": 6711,
+	"newCases": 16,
+	"deaths": 83,
+	"newDeaths": 2
+}, {
+	"reportDate": "27/4/2020",
+	"confirmed": 6720,
+	"newCases": 9,
+	"deaths": 83,
+	"newDeaths": 0
+}, {
+	"reportDate": "28/4/2020",
+	"confirmed": 6731,
+	"newCases": 11,
+	"deaths": 88,
+	"newDeaths": 5
+}, {
+	"reportDate": "29/4/2020",
+	"confirmed": 6746,
+	"newCases": 15,
+	"deaths": 90,
+	"newDeaths": 2
+}, {
+	"reportDate": "30/4/2020",
+	"confirmed": 6753,
+	"newCases": 7,
+	"deaths": 91,
+	"newDeaths": 1
+}, {
+	"reportDate": "01/5/2020",
+	"confirmed": 6767,
+	"newCases": 14,
+	"deaths": 93,
+	"newDeaths": 2
+}, {
+	"reportDate": "02/5/2020",
+	"confirmed": 6783,
+	"newCases": 16,
+	"deaths": 93,
+	"newDeaths": 0
+}]
