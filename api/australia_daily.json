@@ -442,4 +442,46 @@
 	"newCases": 16,
 	"deaths": 93,
 	"newDeaths": 0
+}, {
+	"reportDate": "03/5/2020",
+	"confirmed": 6798,
+	"newCases": 15,
+	"deaths": 95,
+	"newDeaths": 2
+}, {
+	"reportDate": "04/5/2020",
+	"confirmed": 6824,
+	"newCases": 26,
+	"deaths": 96,
+	"newDeaths": 1
+}, {
+	"reportDate": "05/5/2020",
+	"confirmed": 6849,
+	"newCases": 25,
+	"deaths": 97,
+	"newDeaths": 1
+}, {
+	"reportDate": "06/5/2020",
+	"confirmed": 6874,
+	"newCases": 25,
+	"deaths": 97,
+	"newDeaths": 0
+}, {
+	"reportDate": "07/5/2020",
+	"confirmed": 6896,
+	"newCases": 22,
+	"deaths": 97,
+	"newDeaths": 0
+}, {
+	"reportDate": "08/5/2020",
+	"confirmed": 6913,
+	"newCases": 17,
+	"deaths": 97,
+	"newDeaths": 0
+}, {
+	"reportDate": "09/5/2020",
+	"confirmed": 6929,
+	"newCases": 16,
+	"deaths": 97,
+	"newDeaths": 0
 }]
